@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Ruda:wght@400..900&display=swap');
+
+body {
+    background-color: #f4f6f8;
+    margin: 0;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    font-family: "Ruda", sans-serif;
+}
+
+.container {
+    width: 90%;
+    margin-top: 100px;
+    max-width: 800px;
+    background-color: white;
+    padding: 30px;
+    border-radius: 1px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+table {
+    width: 100%;
+}
+
+thead {
+    background-color: rgb(122, 39, 53);
+    color: white;
+}
+
+th,
+td {
+    padding: 12px 15px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.botones {
+    text-align: center;
+}
+
+.btn {
+    display: inline-block;
+    background-color: rgb(105, 36, 47);
+    color: white;
+    padding: 12px 24px;
+    border-radius: 1px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
