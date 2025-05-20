@@ -1,16 +1,16 @@
 {
-    "name": "app/examen",
-    "description": "practica",
+    "name": "app/paraiso",
+    "description": "paraiso",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "App\\Examen\\": "app/"
+            "App\\Paraiso\\": "app/"
         }
     },
     "authors": [
         {
-            "name": "Yosibel Castillo",
-            "email": "yosibelcastillodiaz@gmail.com"
+            "name": "edixon zambrano",
+            "email": "edixonzambrano004@gmail.com"
         }
     ],
     "minimum-stability": "beta",
